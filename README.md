@@ -1,3 +1,3 @@
 # config
 Konfigurationsdateien
-Nur meine Konigurationsdateien
+Nur meine Konfigurationsdateien
